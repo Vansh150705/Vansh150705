@@ -16,6 +16,16 @@
 
 ``typescript
 
+interface Student {
+  name: string;
+  role: string;
+  education: string;
+  location: string;
+  currentFocus: string;
+  leadership: string[];
+}
+
+
 const Vansh: Student = {
   name: "Vansh Mahajan",
   role: "Full-Stack Developer & CS Student",
