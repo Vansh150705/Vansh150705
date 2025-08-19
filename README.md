@@ -25,7 +25,7 @@ interface Student {
 }
 
 const aaryan: Student = {
-  name: "Aaryan Pradhan",
+  name: "Vansh Mahajan",
   role: "Full-Stack Developer & CS Student",
   education: "B.Tech Computer Science | Batch 2023-2027",
   location: "Meerut, Uttar Pradesh, India 🇮🇳",
