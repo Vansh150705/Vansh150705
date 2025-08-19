@@ -14,21 +14,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```typescript
-interface Student {
-  name: string;
-  role: string;
-  education: string;
-  location: string;
-  currentFocus: string;
-  leadership: string[];
-}
+``typescript
 
-const aaryan: Student = {
+const Vansh: Student = {
   name: "Vansh Mahajan",
   role: "Full-Stack Developer & CS Student",
   education: "B.Tech Computer Science | Batch 2023-2027",
-  location: "Meerut, Uttar Pradesh, India 🇮🇳",
+  location: "Ghaziabad, Uttar Pradesh, India 🇮🇳",
   currentFocus: "Building scalable MERN applications & exploring AI/ML",
   leadership: ["Team Captain", "Event Coordinator", "Tech Community Member"]
 };
