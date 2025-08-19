@@ -148,7 +148,7 @@ const Vansh: Student = {
   
   ### 💫 "Code with purpose, lead with passion, contribute with heart!"
   
-  ![](https://komarev.com/ghpvc/?username=aaryan4985&color=00D9FF&style=for-the-badge&label=Profile+Views)
+  ![](https://komarev.com/ghpvc/?username=Vansh150705&color=00D9FF&style=for-the-badge&label=Profile+Views)
   
 </div>
 
