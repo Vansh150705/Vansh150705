@@ -1,4 +1,4 @@
-# 🚀 Welcome to My Digital Universe
+# 🚀 Transforming Concepts Into Code
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello+World!+I'm+Vansh+Mahajan+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+Developer+%26+AI+Enthusiast" alt="Typing SVG" />
@@ -83,11 +83,11 @@ const Vansh: Student = {
 
 <div align="center">
 
-**🏢 Airport Authority of India (AAI)** - *Web Development Intern*  
-`Jun 2025 - Jul 2025`
+**🎯 Pro Sport Development** - *Web Designer Intern*  
+`Oct 2025 - Present`
 
-**🎓 Unified Mentor** - *Front-End Intern*  
-`Oct 2024 - Nov 2024`
+**🏢 Airports Authority of India (AAI)** - *Web Development Intern*  
+`Jun 2025 - Jul 2025`
 
 **🛠️ Inland Waterways Authority of India (IWAI)** - *IT Intern*  
 `Jun 2024 - Jul 2024`
