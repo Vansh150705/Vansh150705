@@ -1,18 +1,35 @@
-# 🚀 Transforming Concepts Into Code
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello+World!+I'm+Vansh+Mahajan+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+Developer+%26+AI+Engineer" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FBE,100:00D9FF&height=220&section=header&text=Vansh%20Mahajan&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer&descSize=18&descAlignY=58&descAlign=50"/>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Agentic+AI+Systems;Mastering+RAG+Pipelines+%26+LLMs;MERN+Stack+%2B+AI+Engineer" alt="Typing SVG"/>
+
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Full_Stack-MERN-00D9FF?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/AI-Engineer-7B2FBE?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/RAG-LangChain-00D9FF?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=1a1b27"/>
+</p>
+
+<!-- Social Links -->
+<p>
+<a href="https://www.linkedin.com/in/vansh-mahajan-napv/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:vansh150705@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
 </div>
 
 ---
 
 ## 🌟 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```typescript
 interface Student {
@@ -34,44 +51,80 @@ const Vansh: Student = {
 };
 ```
 
-<br clear="right"/>
-
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Programming Languages
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge\&logo=python\&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### 🤖 AI / ML & LLM Stack
-
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Pipeline-blue?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-Systems-purple?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-
-### 🎨 Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux\&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" />
+<br><span>Python</span>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48" />
+<br><span>C++</span>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="48" height="48" />
+<br><span>JavaScript</span>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />
+<br><span>React</span>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
+<br><span>Node.js</span>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="48" height="48" />
+<br><span>Express.js</span>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48" />
+<br><span>PHP</span>
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white" alt="LangChain" width="48" height="48" style="border-radius:8px"/>
+<br><span>LangChain</span>
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/RAG-Pipeline-00D9FF?style=flat&logoColor=white" alt="RAG" width="48" height="48" style="border-radius:8px"/>
+<br><span>RAG</span>
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/FAISS-005571?style=flat&logoColor=white" alt="FAISS" width="48" height="48" style="border-radius:8px"/>
+<br><span>FAISS</span>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib" width="48" height="48" style="border-radius:8px"/>
+<br><span>Matplotlib</span>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
+<br><span>MongoDB</span>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
+<br><span>MySQL</span>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
+<br><span>Git</span>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
+<br><span>Postman</span>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -79,134 +132,148 @@ const Vansh: Student = {
 
 ## 💼 Professional Experience
 
-<div align="center">
-
-### 🎯 Pro Sport Development - *Web Designer Intern*  
+### 🎯 Pro Sport Development — *Web Designer Intern*
 `Oct 2025 - Present`
 
-<ul align="center">
-  <li>Designed and optimized responsive web interfaces, improving usability and user engagement.</li>
-  <li>Developed and customized UI components using PHP, HTML, CSS, and JavaScript.</li>
-  <li>Collaborated on CMS management and conducted performance testing to ensure scalability.</li>
-</ul>
+- Designed and optimized responsive web interfaces, improving usability and user engagement.
+- Developed and customized UI components using PHP, HTML, CSS, and JavaScript.
+- Collaborated on CMS management and conducted performance testing to ensure scalability.
 
 ---
 
-### 🏢 Airports Authority of India (AAI) - *Full Stack Developer Intern*  
+### 🏢 Airports Authority of India (AAI) — *Full Stack Developer Intern*
 `Jun 2025 - Jul 2025`
 
-<ul align="center">
-  <li>Developed a full-stack Office Task Management System for AAI using the MERN stack.</li>
-  <li>Implemented JWT-based authentication and role-based access control for secure workflows.</li>
-  <li>Built real-time task tracking and integrated task-level chat using Socket.IO.</li>
-  <li>Designed RESTful APIs and optimized database queries for improved system performance.</li>
-</ul>
+- Developed a full-stack Office Task Management System for AAI using the MERN stack.
+- Implemented JWT-based authentication and role-based access control for secure workflows.
+- Built real-time task tracking and integrated task-level chat using Socket.IO.
+- Designed RESTful APIs and optimized database queries for improved system performance.
 
 ---
 
-### 🛠️ Inland Waterways Authority of India (IWAI) - *IT Intern*  
+### 🛠️ Inland Waterways Authority of India (IWAI) — *IT Intern*
 `Jun 2024 - Jul 2024`
 
-<ul align="center">
-  <li>Assisted in monitoring network systems and maintaining digital platforms for operations.</li>
-  <li>Supported database updates, system administration tasks, and basic troubleshooting.</li>
-  <li>Gained hands-on experience with large-scale IT infrastructure and data handling.</li>
-</ul>
+- Assisted in monitoring network systems and maintaining digital platforms for operations.
+- Supported database updates, system administration tasks, and basic troubleshooting.
+- Gained hands-on experience with large-scale IT infrastructure and data handling.
 
-</div>
+---
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 DocuMind AI
+**RAG-based Agentic Document Q&A System**
+
+Built a RAG-based document Q&A system with a 3-layer Agentic AI pipeline (Clarification, Self-Reflection, Confidence Adaptation), multilingual support & analytics dashboard.
+
+**Tech:** Python • LangChain • FAISS • Gemini • Agentic AI
+
+</td>
+<td width="50%">
+
+### 📋 TaskFlow
+**Full-Stack MERN Task Management System**
+
+Multi-user task assignment, sub-task workflows, real-time updates & task-level chat via Socket.IO. Improved team efficiency by 70%.
+
+**Tech:** MERN • JWT • Socket.IO • MongoDB
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ✍️ Blogify
+**AI-Powered Content Generation Platform**
+
+Automated blog writing with Gemini API (50% faster), image upload & auto description generation.
+
+**Tech:** MERN • Gemini API • ImageKit
+
+</td>
+<td width="50%">
+
+### 🧠 Brain Tumor Detection
+**Deep Learning Medical Imaging**
+
+Achieved 86.1% accuracy using CNN with model interpretability via Grad-CAM. Research paper under publication.
+
+**Tech:** TensorFlow • CNN • Grad-CAM
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
 
-### 🤖 DocuMind AI 
+<p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vansh150705&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FBE&text_color=FFFFFF&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vansh150705&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" height="165"/>
+</p>
 
-*Python • LangChain • FAISS • Gemini • Agentic AI*
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Vansh150705&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=7B2FBE&fire=7B2FBE&currStreakLabel=ffffff&sideLabels=00D9FF&dates=ffffff" alt="GitHub Streak"/>
 
-* Built RAG-based document Q&A system
-* Designed 3-layer Agentic AI system (Clarification, Self-Reflection, Confidence Adaptation)
-* Implemented automation workflows, multilingual support & analytics dashboard
-
----
-
-### 📋 TaskFlow (MERN System)
-
-*MERN • JWT • Socket.IO • MongoDB*
-
-* Full-stack task management system
-* Multi-user assignment & sub-task workflows
-* Real-time updates + task-level chat using Socket.IO
-* Improved efficiency by 70%
-
----
-
-### ✍️ Blogify (AI + Automation)
-
-*MERN • Gemini API • ImageKit*
-
-* AI-powered content generation platform
-* Automated blog writing (50% faster)
-* Image upload + auto description generation
-
----
-
-### 🧠 Brain Tumor Detection (Deep Learning)
-
-*TensorFlow • CNN • Grad-CAM*
-
-* Achieved 86.1% accuracy
-* Applied model interpretability using Grad-CAM
-* Research paper under publication
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vansh150705&bg_color=0d1117&color=00D9FF&line=7B2FBE&point=00D9FF&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-
 ## 📚 Certifications & Courses
 
-<div align ="center">
-
-* 🤖 Introduction to Artificial Intelligence - IBM
-* 🐍 AI/ML using Python - Swayam Plus
-* 🌐 Web Development - Internshala
-* 💻 Master C Programming - Udemy
-* ⚡ Learn C++ Programming - Udemy
-  </div>
+- 🤖 Introduction to Artificial Intelligence — IBM
+- 🐍 AI/ML using Python — Swayam Plus
+- 🌐 Web Development — Internshala
+- 💻 Master C Programming — Udemy
+- ⚡ Learn C++ Programming — Udemy
 
 ---
 
 ## 🏆 Leadership & Volunteering
-<div align = "center">
-<li>🏃‍♂️ Athletics Team Captain - Leading 8+ athletes</li>
-<li>🎭 Cultural Fest Manager - Organized 5+ events</li>
-<li>📚 Teaching Volunteer - Educated underprivileged students</li>
-<li>🍽️ Community Service - Food distribution initiatives</li>
-</div>
+
+- 🏃‍♂️ **Athletics Team Captain** — Leading 8+ athletes
+- 🎭 **Cultural Fest Manager** — Organized 5+ events
+- 📚 **Teaching Volunteer** — Educated underprivileged students
+- 🍽️ **Community Service** — Food distribution initiatives
 
 ---
 
-## 🌐 Let's Connect!
+## 📫 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vansh-mahajan-napv/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vansh150705@gmail.com)
+**💼 Open for Collaboration & Internship Opportunities**
+
+<p>
+<a href="https://www.linkedin.com/in/vansh-mahajan-napv/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:vansh150705@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Vansh150705&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
----
-
 <div align="center">
 
-### 💫 "Building intelligent systems, not just applications."
-
-![](https://komarev.com/ghpvc/?username=Vansh150705\&color=00D9FF\&style=for-the-badge\&label=Profile+Views)
-
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+### 💫 *"Building intelligent systems, not just applications."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FBE,100:00D9FF&height=120&section=footer"/>
+
 </div>
