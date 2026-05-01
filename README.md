@@ -228,24 +228,6 @@ Achieved 86.1% accuracy using CNN with model interpretability via Grad-CAM. Rese
 
 ---
 
-## 📚 Certifications & Courses
-
-- 🤖 Introduction to Artificial Intelligence — IBM
-- 🐍 AI/ML using Python — Swayam Plus
-- 🌐 Web Development — Internshala
-- 💻 Master C Programming — Udemy
-- ⚡ Learn C++ Programming — Udemy
-
----
-
-## 🏆 Leadership & Volunteering
-
-- 🏃‍♂️ **Athletics Team Captain** — Leading 8+ athletes
-- 🎭 **Cultural Fest Manager** — Organized 5+ events
-- 📚 **Teaching Volunteer** — Educated underprivileged students
-- 🍽️ **Community Service** — Food distribution initiatives
-
----
 
 ## 📫 Let's Connect
 
