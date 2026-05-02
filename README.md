@@ -130,36 +130,6 @@ const Vansh: Student = {
 
 ---
 
-## 💼 Professional Experience
-
-### 🎯 Pro Sport Development — *Web Designer Intern*
-`Oct 2025 - Present`
-
-- Designed and optimized responsive web interfaces, improving usability and user engagement.
-- Developed and customized UI components using PHP, HTML, CSS, and JavaScript.
-- Collaborated on CMS management and conducted performance testing to ensure scalability.
-
----
-
-### 🏢 Airports Authority of India (AAI) — *Full Stack Developer Intern*
-`Jun 2025 - Jul 2025`
-
-- Developed a full-stack Office Task Management System for AAI using the MERN stack.
-- Implemented JWT-based authentication and role-based access control for secure workflows.
-- Built real-time task tracking and integrated task-level chat using Socket.IO.
-- Designed RESTful APIs and optimized database queries for improved system performance.
-
----
-
-### 🛠️ Inland Waterways Authority of India (IWAI) — *IT Intern*
-`Jun 2024 - Jul 2024`
-
-- Assisted in monitoring network systems and maintaining digital platforms for operations.
-- Supported database updates, system administration tasks, and basic troubleshooting.
-- Gained hands-on experience with large-scale IT infrastructure and data handling.
-
----
-
 ## 🚀 Featured Projects
 
 <table>
