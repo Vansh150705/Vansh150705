@@ -8,8 +8,8 @@
 
 <!-- Badges -->
 <p>
-  <img src="https://img.shields.io/badge/Full_Stack-MERN-00D9FF?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1b27"/>
-  <img src="https://img.shields.io/badge/AI-Engineer-7B2FBE?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/AI-Engineer-00D9FF?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/Full_Stack-MERN-7B2FBE?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1b27"/>
   <img src="https://img.shields.io/badge/RAG-LangChain-00D9FF?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=1a1b27"/>
 </p>
 
