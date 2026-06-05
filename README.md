@@ -185,8 +185,7 @@ Achieved 86.1% accuracy using CNN with model interpretability via Grad-CAM. Rese
 
 <div align="center">
 
-<p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vansh150705&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FBE&text_color=FFFFFF&include_all_commits=true&count_private=true" height="165"/>
+<p><img src="https://raw.githubusercontent.com/Vansh150705/Vansh150705/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vansh150705&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" height="165"/>
 </p>
 
