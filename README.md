@@ -48,7 +48,6 @@ const Vansh: Developer = {
   role: "Full-Stack Developer & AI Engineer",
   education: "B.Tech Computer Science | Batch 2023-2027 | CGPA: 8.32",
   location: "Delhi, India 🇮🇳",
-  currentWork: "AI Intern @ Corporate Infotech Pvt Ltd",
   currentFocus: "Agentic AI, Multi-Agent Systems, RAG pipelines & scalable full-stack apps",
   leadership: ["Athletics Team Captain", "Event Coordinator", "Tech Community Member"]
 };
